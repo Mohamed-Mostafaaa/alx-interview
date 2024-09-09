@@ -13,3 +13,5 @@ This project contains interview coding challenges.
   - The data set can contain multiple characters.
   - The data will be represented by a list of integers.
   - Each integer represents 1 byte of data, therefore you only need to handle the 8 least significant bits of each integer.
+
+![](https://1.bp.blogspot.com/-Fw4FyitPOkw/YU8ClF2NwQI/AAAAAAAAW-w/YeIb-pdOErseGoYCwNkr-DYZLljmltMUgCLcBGAsYHQ/s1280/leetcode-UTF-8-Validation-problem-solution.jpg)
